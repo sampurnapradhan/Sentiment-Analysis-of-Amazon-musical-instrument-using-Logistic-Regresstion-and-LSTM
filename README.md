@@ -23,7 +23,7 @@ The text data undergoes preprocessing steps such as tokenization, removal of sto
 - **Handling Imbalanced Dataset**: Implements class weights to handle the class imbalance problem.
 
 ## File Structure
-- `code.py`: Contains the Python code for sentiment analysis.
+- `LRandLSTM.ipynb: Contains the Python code for sentiment analysis.
 - `Musical_instruments_reviews.csv`: Dataset file.
 - `README.md`: Instructions and information about the project.
 
